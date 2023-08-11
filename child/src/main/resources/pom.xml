@@ -149,7 +149,7 @@
 			<artifactId>logback-classic</artifactId>
 			<version>0.9.24</version>
 			<scope>runtime</scope>
-		</dependency>
+		</dependency
 
 		<dependency>
 			<groupId>junit</groupId>
